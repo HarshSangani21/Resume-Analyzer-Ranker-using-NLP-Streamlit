@@ -1,6 +1,4 @@
-Here's a complete, well-formatted `README.md` file for your **Resume Analyzer and Ranker** project — ready to publish on GitHub:
 
----
 
 ## 📄 Resume Analyzer & Ranker using NLP + Streamlit
 
