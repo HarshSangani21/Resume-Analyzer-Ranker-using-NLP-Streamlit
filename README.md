@@ -33,10 +33,13 @@ A smart web application that compares resumes with a job description using **NLP
 ### 📂 Folder Structure
 
 ```
-📁 resume-analyzer
+📁 Resume-Analyzer-Ranker-using-NLP-Streamlit
+├── image                  # Screenshots
+|   ├── image1.png
+|   └── image2.png
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Dependency file
-└── README.md              # Project overview (this file)
+└── README.md              # Project overview
 ```
 
 ---
@@ -46,8 +49,8 @@ A smart web application that compares resumes with a job description using **NLP
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/resume-analyzer.git
-cd resume-analyzer
+git clone https://github.com/HarshSangani21/Resume-Analyzer-Ranker-using-NLP-Streamlit.git
+cd Resume-Analyzer-Ranker-using-NLP-Streamlit
 ```
 
 2. **Install requirements**
