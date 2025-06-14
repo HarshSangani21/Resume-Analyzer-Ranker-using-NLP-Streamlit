@@ -6,7 +6,6 @@ Here's a complete, well-formatted `README.md` file for your **Resume Analyzer an
 
 A smart web application that compares resumes with a job description using **NLP** and **Machine Learning**, and ranks candidates based on similarity scores. Built using **Python**, **Streamlit**, **TF-IDF**, and **Cosine Similarity**.
 
-![Streamlit Screenshot](https://user-images.githubusercontent.com/placeholder/screenshot.png)
 
 ---
 
